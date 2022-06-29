@@ -14,3 +14,4 @@ original site by freeCodeCamp: https://tribute-page.freecodecamp.rocks/
  
 ### Notas Adicionais: 
  - A minha intepretação com esse projeto foi de chegar o mais próximo possível do resultado original, porém sem ler o código do site ou qualquer direcionamento/dicas disponibilizado pelo site. Por isso, não me ative as cores ou tamanhos exatamente iguais.
+ - Porém, a partir desse projeto foi introduzido o design style guide (https://design-style-guide.freecodecamp.org/), no qual irei me basear.
