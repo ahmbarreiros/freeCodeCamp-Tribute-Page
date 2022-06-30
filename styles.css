@@ -1,0 +1,71 @@
+* {
+ font-family: 'Segoe UI','Poppins', sans-serif;
+ font-size: 16px;
+}
+
+body {
+ background-color: #ffffff;
+ box-sizing: border-box;
+ padding-top: 3px;
+}
+
+main {
+ width: 100%;
+ background-color: #ececec;
+ margin: 20px auto;
+ border-radius: 5px;
+ padding-top: 20px;
+}
+
+.header {
+ text-align: center;
+ margin-top: -15px;
+ margin-bottom: 0;
+ padding: 10px 10px 0 10px;
+ justify-content: center;
+}
+
+.bold {
+ font-weight: bold;
+}
+
+#title {
+ font-size: 2.5em;
+}
+
+#subtitle {
+ font-weight: 400;
+ margin: 0;
+ margin-top: -12px;
+ font-size: 16px;
+}
+
+figure {
+ margin: 15px 15px 0 15px;
+ background-color: #ffffff;
+ overflow: hidden;
+ border-radius: 3px;
+}
+
+figure img {
+ display: flex;
+ justify-content: center;
+ overflow: hidden;
+ margin: 10px auto 20px auto;
+ padding: auto;
+}
+
+figure figcaption {
+ text-align: center;
+ margin-bottom: 20px;
+}
+
+.timeline {
+ text-align: center;
+ margin: 10px auto;
+ padding: 50px;
+}
+
+.italic {
+ font-style: italic;
+}
