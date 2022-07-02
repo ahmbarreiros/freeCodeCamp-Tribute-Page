@@ -44,15 +44,15 @@ figure {
  margin: 15px 15px 0 15px;
  background-color: #ffffff;
  overflow: hidden;
+ padding: 10px;
  border-radius: 3px;
 }
 
 figure img {
- display: flex;
- justify-content: center;
- overflow: hidden;
+ display: block;
  margin: 10px auto 20px auto;
- padding: auto;
+ max-width: 100%;
+ height: auto;
 }
 
 figure figcaption {
