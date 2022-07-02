@@ -22,3 +22,5 @@ original site by freeCodeCamp: https://tribute-page.freecodecamp.rocks/
 
 - Não há margin da direita e esquerda entre a figure e a imagem em si quando ela está em uma resolução menor.
 - o tamanho da figure em uma resolução menor aumenta muito.
+- Não consegui achar uma maneira para alinhar os elementos da lista e a frase em itálico da mesma maneira em que está no site original.
+- aparentemente o tamanho da section sobre a vida dele está errado, e por isso não é possível formatar da maneira correta.
