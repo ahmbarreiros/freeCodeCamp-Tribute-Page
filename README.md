@@ -4,6 +4,8 @@ Projeto para certificado de progresso do novo curso de Responsive Web Design fei
 
 Usando conceitos de acessibilidade, flexbox, tipografia e box model aprendidos no módulo. Além de outros elementos de HTML e CSS.
 
+Screenshots: https://i.imgur.com/UMcTTcn.png (1ª parte) https://i.imgur.com/R8vLqvv.png (2ª parte) https://i.imgur.com/PP3j9iw.png (3ª parte)
+
 original site by freeCodeCamp: https://tribute-page.freecodecamp.rocks/
 
 ## Meu Processo:
